@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hlly1
-- 👀 I’m interested in programming, gaming~
+- 👀 I’m interested in programming, gaming(NS, PS5...)~
 - 🌱 I’m currently working as a Java developer
-- 💞️ I’m looking to collaborate on <placeholder>
-- 📫 How to reach me <blog under constructing>
+- 💞️ I’m looking to collaborate on [placeholder]
+- 📫 How to reach me [blog under constructing]
 
 <!---
 hlly1/hlly1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
